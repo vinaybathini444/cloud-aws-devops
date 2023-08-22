@@ -1,0 +1,23 @@
+git config --global user.name "Admin"
+
+git config --global user.email <youremailID>@gmail.com
+
+git config --global user.email vikas4cloud@gmail.com
+
+------------------
+auto geenetarted for createing a reop
+
+echo "# abhishekbatch31" >> README.md
+git init
+git add README.md
+git add *
+git commit -m "first commit"   - save
+done 
+git branch -M main
+git remote add origin https://github.com/vikas4cloud/abhishekbatch31.git
+
+done 
+
+git push -u origin main
+
+git status
